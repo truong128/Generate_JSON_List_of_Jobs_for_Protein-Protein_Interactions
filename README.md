@@ -1,4 +1,4 @@
-![image](https://github.com/truong128/Generate_List_Jobs_of-JSON-file_for_AlphaFold3/blob/main/JSON.png)
+![image](https://github.com/truong128/Generate_JSON_List_of_Jobs_for_Protein-Protein_Interactions/blob/main/JSON_Protein_Protein.png)
 
 # [For Protein and Protein interactions] Generate_List_Jobs_of-JSON-file_for_AlphaFold3
 
